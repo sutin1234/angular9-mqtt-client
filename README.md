@@ -1,4 +1,5 @@
-# AngularMqttClient
+![angular mqtt client](https://miro.medium.com/max/842/1*JzGgb_obPRNHu7rvnjOt7A.png)
+# Angular MqttClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
 
@@ -13,6 +14,18 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Install MQTT Broker for Wndows
+http://www.bytesofgigabytes.com/mqtt/installing-mqtt-broker-on-windows/
+
+
+
+## Running Project
+```bash
+$ git clone https://github.com/sutin1234/angular9-mqtt-client.git proj-name
+$ cd proj-name && npm install
+$ ng serve && yarn start && npm run start
+```
 
 ## Running unit tests
 
